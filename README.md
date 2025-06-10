@@ -11,12 +11,12 @@
 ###
 
 <p align="left">
-👀 I’m interested in technology, coding, and educational projects.<br>
-🌱 I’m currently learning advanced Machine Learning, Deep Learning, and NLP techniques while developing educational content.<br>
-💞️ I’m looking to collaborate on tech-based educational tools and creative programming projects.<br>
-📫 How to reach me: <a href="mailto:saraalsanajleh@gmail.com">saraalsanajleh@gmail.com</a><br>
-😄 Pronouns: She/Her<br>
-⚡ Fun fact: I love using both technology and creativity to simplify complex topics for learners of all ages!
+I’m interested in technology, coding, and educational projects.<br>
+I’m currently learning advanced Machine Learning, Deep Learning, and NLP techniques while developing educational content.<br>
+I’m looking to collaborate on tech-based educational tools and creative programming projects.<br>
+How to reach me: <a href="mailto:saraalsanajleh@gmail.com">saraalsanajleh@gmail.com</a><br>
+Pronouns: She/Her<br>
+Fun fact: I love using both technology and creativity to simplify complex topics for learners of all ages!
 </p>
 
 ###
